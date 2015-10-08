@@ -1,0 +1,19 @@
+{
+  "name": "@njgell/npm-tutorial",
+  "version": "1.0.0",
+  "description": "npm tutorial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njgell/npm-tutorial.git"
+  },
+  "author": "Nathan Gell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njgell/npm-tutorial/issues"
+  },
+  "homepage": "https://github.com/njgell/npm-tutorial#readme"
+}
