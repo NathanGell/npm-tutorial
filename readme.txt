@@ -1,3 +1,1 @@
-njgell
-npm-tutorial
-readme
+This repo contains all the files for the "how-to-npm" tutorial series.
